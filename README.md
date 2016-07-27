@@ -1,6 +1,8 @@
 # Percolator
 Java wrapper for the Cronofy Rest Api
 
+(note this is still very much a work in progress)
+
 Overview
 --------
 Project Percolator was created out of testing and reverse engineering the Cronofy Api endpoints. It allows for the conversion of Json objects to baseic java classes which then could be used in any project. The project is split into 3 main parts. 
